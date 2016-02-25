@@ -1,0 +1,4 @@
+export PS1="Batman\w>"
+
+//The above command for Bash shell makes your root directory Batman because it has no parents.
+//Note: actually though it just makes it look like batman, because actually changing it would be an awful idea.
